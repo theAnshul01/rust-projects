@@ -1,0 +1,5 @@
+# Rust build artifacts for all projects in this workspace
+target/
+
+# Backtrace / debug files
+*.pdb
